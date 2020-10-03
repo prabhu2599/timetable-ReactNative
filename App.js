@@ -41,7 +41,7 @@ export default function App() {
 		if(day == 6) {
 			return( < SaturdayStack / > )
 		}
-    if(day == 7) {
+    if(day == 0) {
       return( <AboutStack /> )
     }
 		
